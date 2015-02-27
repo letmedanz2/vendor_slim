@@ -156,9 +156,9 @@ ifdef SLIM_BUILD_EXTRA
     SLIM_POSTFIX := -$(SLIM_BUILD_EXTRA)
 endif
 ifndef SLIM_BUILD_TYPE
-    SLIM_BUILD_TYPE := UNOFFICIAL
+    SLIM_BUILD_TYPE := twisted
     PLATFORM_VERSION_CODENAME := UNOFFICIAL
-    SLIM_POSTFIX := -$(shell date +"%Y%m%d-%H%M")
+    SLIM_POSTFIX := -$(shell date +"%Y%m%d)
 endif
 
 # SlimIRC
