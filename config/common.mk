@@ -89,7 +89,8 @@ PRODUCT_PACKAGES += \
     SlimCenter \
     SlimLauncher \
     LatinIME \
-    BluetoothExt
+    BluetoothExt \
+    LockClock
 
 #    DashClock
 
@@ -111,7 +112,7 @@ PRODUCT_PACKAGES += \
     libstagefright_soft_ffmpegvdec \
     libFFmpegExtractor \
     libnamparser
-    
+
 # SuperSU
 PRODUCT_COPY_FILES += \
     vendor/slim/prebuilt/common/UPDATE-SuperSU.zip:system/addon.d/UPDATE-SuperSU.zip \
