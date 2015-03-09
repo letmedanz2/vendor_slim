@@ -94,7 +94,8 @@ PRODUCT_PACKAGES += \
     Layersbackup \
     LatinIME \
     BluetoothExt \
-    LockClock
+    LockClock \
+    AdAway
 
 #    DashClock
 
