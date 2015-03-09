@@ -89,6 +89,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     SlimCenter \
     SlimLauncher \
+    SimpleExplorer \
+    Layers \
+    Layersbackup \
     LatinIME \
     BluetoothExt \
     LockClock
