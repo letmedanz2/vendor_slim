@@ -95,7 +95,8 @@ PRODUCT_PACKAGES += \
     LatinIME \
     BluetoothExt \
     LockClock \
-    AdAway
+    AdAway \
+    LMT
 
 #    DashClock
 
