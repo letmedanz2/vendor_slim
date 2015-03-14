@@ -76,6 +76,11 @@ PRODUCT_PACKAGES += \
     Layers
 
 # Optional packages
+
+# Cyanogenmod Terminal app
+PRODUCT_PACKAGES += \
+    Terminal
+
 # PRODUCT_PACKAGES += \
 #    Basic \
 #    LiveWallpapersPicker \
